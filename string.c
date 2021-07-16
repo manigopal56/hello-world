@@ -4,6 +4,7 @@
   
 int main()
 {   
+  char c='s';
     // declare and initialize string
     char str[] = "Geeks";
       
